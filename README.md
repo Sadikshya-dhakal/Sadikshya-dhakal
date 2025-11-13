@@ -65,8 +65,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadikshya-dhakal&show_icons=true&theme=tokyonight" alt="Sadikshya's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Sadikshya-dhakal&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
+
 
 
 
