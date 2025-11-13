@@ -65,7 +65,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sadikshya-dhakal&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sadikshya-dhakal&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
+
 
 
