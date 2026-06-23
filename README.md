@@ -6,6 +6,7 @@
   <tr>
     <td width="55%" valign="top">
       <h1>Hey there! I'm Sadikshya 👋</h1>
+      <!-- Fixed Typing Animation -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Django+Expert;MERN+Stack+Learner;AI+/+ML+Enthusiast;Computer+Engineer" alt="Typing SVG" />
       <p>
         I am a <b>Computer Engineering Student</b> at Universal Engineering and Science College. 
@@ -19,8 +20,8 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <!-- REPLACE 'my-photo.jpg' WITH YOUR ACTUAL FILE NAME BELOW -->
-      <img src="my-photo.jpg" width="250" style="border-radius: 50%; border: 5px solid #36BCF7;" alt="Sadikshya Dhakal" />
+      <!-- Fixed Image Path -->
+      <img src="sadikshya.jpeg" width="250" style="border-radius: 50%; border: 5px solid #36BCF7;" alt="Sadikshya Dhakal" />
     </td>
   </tr>
 </table>
