@@ -6,42 +6,41 @@
   <tr>
     <td width="55%" valign="top">
       <h1>Hey there! I'm Sadikshya 👋</h1>
-      <!-- Fixed Typing Animation -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Django+Expert;MERN+Stack+Learner;AI+/+ML+Enthusiast;Computer+Engineer" alt="Typing SVG" />
       <p>
         I am a <b>Computer Engineering Student</b> at Universal Engineering and Science College. 
-        I have <b>mastered Django</b> and am now building modern full-stack solutions with 
-        the <b>MERN Stack</b> while exploring <b>AI/ML</b>.
+        Having already mastered <b>Django</b>, I am now engineering modern full-stack solutions with 
+        the <b>MERN Stack</b> while integrating <b>Machine Learning</b>.
       </p>
       <p>
-        🚀 <b>Expertise:</b> Python & Django Framework<br>
-        🌱 <b>Learning:</b> MongoDB, Express, React, Node.js<br>
-        🧠 <b>AI/ML:</b> TensorFlow, Scikit-Learn & Computer Vision
+        ✅ <b>Well-versed in:</b> Python & Django Framework<br>
+        🌱 <b>Active Learning:</b> MongoDB, Express, React, Node.js<br>
+        🧠 <b>Researching:</b> Computer Vision & Predictive Modeling
       </p>
     </td>
     <td width="45%" align="center">
-      <!-- Fixed Image Path -->
-      <img src="sadikshya.jpeg" width="250" style="border-radius: 50%; border: 5px solid #36BCF7;" alt="Sadikshya Dhakal" />
+      <!-- Your Image -->
+      <img src="sadikshya.jpeg" width="250" style="border-radius: 50%; border: 2px solid #36BCF7;" alt="Sadikshya Dhakal" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 💻 My Tech Stack
+### 💻 Technical Proficiency
 
-#### 🏆 Mastered & Expert In:
+#### 🏆 Core Strengths (Backend & Languages)
 [![My Skills](https://skillicons.dev/icons?i=python,django,cpp,java,github,git,vscode)](https://skillicons.dev)
 
-#### 🌐 Learning Full Stack (MERN):
+#### 🌐 Web Development (Currently Mastering MERN)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js)](https://skillicons.dev)
 
-#### 🤖 Artificial Intelligence & Data Science:
+#### 🤖 AI, Machine Learning & Tools
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,py,sklearn,linux)](https://skillicons.dev)
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Ecosystem
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sadikshya-dhakal&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadikshya-dhakal&layout=compact&theme=tokyonight&hide_border=true" height="150" />
@@ -61,5 +60,5 @@
 </p>
 
 <p align="center">
-  <i>"Building the future, one line of code at a time."</i>
+  <i>"Transforming logic into intelligence and code into solutions."</i>
 </p>
